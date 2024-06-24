@@ -2,11 +2,11 @@
 	"name": "starwarsd6-essentialcompanion-od6s",
 	"title": "The Essential Companion to Star Wars D6 on OpenD6 Space",
 	"description": "A collection of Star Wars Roleplaying Game content to facilitate turning an OpenD6 Space game into a Star Wars D6 game.",
-	"version": "11.1.0",
+	"version": "11.1.1",
   	"compatibility": {
     		"minimum": "10",
-    		"verified": "11.300",
-		"maximum": "11"
+    		"verified": "12.999",
+		"maximum": "12"
   	},
 	"authors": [
           {
@@ -117,7 +117,7 @@
 			"type": "Item"
 		}
 	],
-	"url" : "https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s",
-	"manifest": "https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/module.json",
-	"download": "https://github.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/archive/refs/heads/main.zip"
+	"url" : "https://github.com/peejaybee/starwarsd6-essentialcompanion-od6s",
+	"manifest": "https://raw.githubusercontent.com/peejaybee/starwarsd6-essentialcompanion-od6s/v12/module.json",
+	"download": "https://github.com/peejaybee/starwarsd6-essentialcompanion-od6s/archive/refs/heads/v12.zip"
 }
